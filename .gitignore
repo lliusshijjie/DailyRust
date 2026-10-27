@@ -1,0 +1,16 @@
+# 本地笔记与工具（不纳入仓库；tools/ 内含登录凭据）
+/notes/
+/tools/
+
+# 编译产物
+*.exe
+*.pdb
+*.dll
+*.rlib
+/target/
+
+# 编辑器与系统文件
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
