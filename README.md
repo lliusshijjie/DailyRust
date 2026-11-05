@@ -92,7 +92,7 @@ rustc --edition 2024 -D warnings "BASICS/01_变量绑定与可变性/01_bindings
 | 12 | 泛型函数与单态化 | ✅ | 2026-11-02 |
 | 13 | trait 基础与孤儿规则 | ✅ | 2026-11-03 |
 | 14 | trait 约束、impl Trait 与 where | ✅ | 2026-11-04 |
-| 15 | 关联类型、const 泛型与 GAT | ⬜ | |
+| 15 | 关联类型、const 泛型与 GAT | ✅ | 2026-11-05 |
 | 16 | trait 对象与动态分发 | ⬜ | |
 | 17 | 运算符重载与转换 trait | ⬜ | |
 | 18 | 闭包：Fn / FnMut / FnOnce | ⬜ | |
