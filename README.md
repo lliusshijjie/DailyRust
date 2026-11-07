@@ -94,7 +94,7 @@ rustc --edition 2024 -D warnings "BASICS/01_变量绑定与可变性/01_bindings
 | 14 | trait 约束、impl Trait 与 where | ✅ | 2026-11-04 |
 | 15 | 关联类型、const 泛型与 GAT | ✅ | 2026-11-05 |
 | 16 | trait 对象与动态分发 | ✅ | 2026-11-06 |
-| 17 | 运算符重载与转换 trait | ⬜ | |
+| 17 | 运算符重载与转换 trait | ✅ | 2026-11-07 |
 | 18 | 闭包：Fn / FnMut / FnOnce | ⬜ | |
 | 19 | 迭代器与惰性求值 | ⬜ | |
 | 20 | 迭代器组合子与 collect | ⬜ | |
