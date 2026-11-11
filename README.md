@@ -97,7 +97,7 @@ rustc --edition 2024 -D warnings "BASICS/01_变量绑定与可变性/01_bindings
 | 17 | 运算符重载与转换 trait | ✅ | 2026-11-07 |
 | 18 | 闭包：Fn / FnMut / FnOnce | ✅ | 2026-11-09 |
 | 19 | 迭代器与惰性求值 | ✅ | 2026-11-10 |
-| 20 | 迭代器组合子与 collect | ⬜ | |
+| 20 | 迭代器组合子与 collect | ✅ | 2026-11-11 |
 | 21 | 智能指针：Box、Rc、RefCell | ⬜ | |
 
 ### ERRORS/（第 22–30 课）：错误处理与工程化
