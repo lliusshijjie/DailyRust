@@ -104,7 +104,7 @@ rustc --edition 2024 -D warnings "BASICS/01_变量绑定与可变性/01_bindings
 
 | # | 主题 | 状态 | 日期 |
 |---|------|------|------|
-| 22 | Option 与组合子 | ⬜ | |
+| 22 | Option 与组合子 | ✅ | 2026-11-13 |
 | 23 | Result 与 ? 运算符 | ⬜ | |
 | 24 | 自定义错误类型与错误链 | ⬜ | |
 | 25 | panic、unwrap 与 unwind | ⬜ | |
