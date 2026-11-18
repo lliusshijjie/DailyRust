@@ -108,7 +108,7 @@ rustc --edition 2024 -D warnings "BASICS/01_变量绑定与可变性/01_bindings
 | 23 | Result 与 ? 运算符 | ✅ | 2026-11-14 |
 | 24 | 自定义错误类型与错误链 | ✅ | 2026-11-16 |
 | 25 | panic、unwrap 与 unwind | ✅ | 2026-11-17 |
-| 26 | 测试：单元、集成与文档测试 | ⬜ | |
+| 26 | 测试：单元、集成与文档测试 | ✅ | 2026-11-18 |
 | 27 | 调试与诊断：dbg!、断言与 Debug | ⬜ | |
 | 28 | 错误处理策略与 API 边界设计 | ⬜ | |
 | 29 | Cargo 工程化：features、workspace 与 MSRV | ⬜ | |
