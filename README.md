@@ -111,7 +111,7 @@ rustc --edition 2024 -D warnings "BASICS/01_变量绑定与可变性/01_bindings
 | 26 | 测试：单元、集成与文档测试 | ✅ | 2026-11-18 |
 | 27 | 调试与诊断：dbg!、断言与 Debug | ✅ | 2026-11-19 |
 | 28 | 错误处理策略与 API 边界设计 | ✅ | 2026-11-20 |
-| 29 | Cargo 工程化：features、workspace 与 MSRV | ⬜ | |
+| 29 | Cargo 工程化：features、workspace 与 MSRV | ✅ | 2026-11-21 |
 | 30 | 文档、clippy 与 fmt 工作流 | ⬜ | |
 
 ### CONCURRENCY/（第 31–39 课）：线程、原子与异步
