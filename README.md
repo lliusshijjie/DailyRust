@@ -118,7 +118,7 @@ rustc --edition 2024 -D warnings "BASICS/01_变量绑定与可变性/01_bindings
 
 | # | 主题 | 状态 | 日期 |
 |---|------|------|------|
-| 31 | 线程与 scoped threads | ⬜ | |
+| 31 | 线程与 scoped threads | ✅ | 2026-11-24 |
 | 32 | 消息传递：mpsc 通道 | ⬜ | |
 | 33 | 共享状态：Mutex、RwLock 与 Arc | ⬜ | |
 | 34 | Send 与 Sync | ⬜ | |
