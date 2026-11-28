@@ -122,7 +122,7 @@ rustc --edition 2024 -D warnings "BASICS/01_变量绑定与可变性/01_bindings
 | 32 | 消息传递：mpsc 通道 | ✅ | 2026-11-25 |
 | 33 | 共享状态：Mutex、RwLock 与 Arc | ✅ | 2026-11-26 |
 | 34 | Send 与 Sync | ✅ | 2026-11-27 |
-| 35 | 原子类型与内存序 | ⬜ | |
+| 35 | 原子类型与内存序 | ✅ | 2026-11-28 |
 | 36 | async/await 与 Future 的本质 | ⬜ | |
 | 37 | 手写执行器与 Pin | ⬜ | |
 | 38 | 异步组合：join 与 select | ⬜ | |
